@@ -8,7 +8,12 @@ sudo apt-get upgrade
 ```
 
 ## 2.카메라 연결 확인
+  * 시간 명령어 -t
 ```bush
-libcamera hellow
+libcamera-hello
+#계속 키는 방법
+libcamera-hello -t0
 ```
+
+
 
