@@ -7,3 +7,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
+## 2.카메라 연결 확인
+```bush
+libcamera hellow
+```
