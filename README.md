@@ -12,4 +12,3 @@ sudo apt-get upgrade
 libcamera hellow
 ```
 
-ㅇㄴ미;파ㅓ내ㅣㅇ머개;ㅑㅂㅈ덜차풍ㄴㅁ;ㅣㅑㅊ펌ㄴ이ㅑ러ㅣㅁㄴ디.ㅏㄹ
